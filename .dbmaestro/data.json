@@ -1,0 +1,30 @@
+{
+  "Projects": [
+    {
+      "GlobalData": {
+        "ProjectName": "source_control",
+        "DBTypeName": "SQL Server",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "RepositoryDetails": {
+          "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
+          "RemoteRepositoryDirectory": "https://github.com/roylauzon/source_control",
+          "BranchName": "main"
+        },
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": false
+        }
+      },
+      "UserData": [
+        {
+          "UserName": "roylauzon76",
+          "RepositoryCredentials": {
+            "UserName": "roylauzon76",
+            "Password": "DSAFlx1odccnxoG0h/ROpA=="
+          },
+          "ConnectionStrings": {}
+        }
+      ]
+    }
+  ]
+}
