@@ -8,11 +8,11 @@
         "SourceControlPathType": 0,
         "RepositoryDetails": {
           "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
-          "RemoteRepositoryDirectory": "https://github.com/roylauzon/source_control",
+          "RemoteRepositoryDirectory": "https://github.com/roylauzon/source_control.git",
           "BranchName": "main"
         },
         "Configuration": {
-          "BuildMigrationScriptAutomatically": false
+          "BuildMigrationScriptAutomatically": true
         }
       },
       "UserData": [
@@ -20,7 +20,7 @@
           "UserName": "roylauzon76",
           "RepositoryCredentials": {
             "UserName": "roylauzon76",
-            "Password": "DSAFlx1odccnxoG0h/ROpA=="
+            "Password": "crU119BmB/BF8vB02XkYHmWtxoWZ6OIWjo24+91RRK9h9geY9RcW6Kd986mcrMZS"
           },
           "ConnectionStrings": {}
         }
